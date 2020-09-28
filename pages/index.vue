@@ -16,17 +16,7 @@
   </v-container>
 </template>
 
-<script>
-import stories from "~/assets/stories.js";
-export default {
-  data() {
-    return {
-      stories,
-      currentPage: 0
-    };
-  }
-};
-</script>
+
 
 <style lang="scss">
 .container {
